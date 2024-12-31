@@ -13,7 +13,7 @@ project_entries:
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
+  - title: Project B
     url: overview-post
     desc: Projects are shown in card layout
 
